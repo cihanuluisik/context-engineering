@@ -1,7 +1,7 @@
 # Core Generative and Agentic AI Concepts
 
 ### AI Engineer Learning Path
-![AI Engineer Learning Map](diagrams/learning/Learning%20Map%20-%20AI%20Engineer.png)
+![AI Engineer Learning Map](diagrams/learning/AI%20Engineer.png)
 
 ## 1. Foundational Concepts
 - Thinking of AI as your thought partner
@@ -48,7 +48,7 @@
 - A2A (Agent-to-Agent Communication)
 
 ### AI Agent Learning Map
-![AI Agent Learning Map](diagrams/learning/Learning%20Map%20-%20AI%20Agent.png)
+![AI Agent Learning Map](diagrams/learning/AI%20Agent.png)
 
 ## 5. Agentic AI
 - Workflow orchestration:
@@ -96,8 +96,8 @@
 
 
 ### Essential AI Concepts Overview
-![Top AI Concepts](diagrams/learning/Learning%20Map%20-%20Top%20AI%20Concepts.png)
+![Top AI Concepts](diagrams/learning/Top%20AI%20Concepts.png)
 
 ### AI Tech Stack to Master in 2025
-![Tech Stack every AI Learner Must Master in 2025](diagrams/learning/Learning%20-%20tech%20stack.png)
+![Tech Stack every AI Learner Must Master in 2025](diagrams/learning/Tech%20stack.png)
 

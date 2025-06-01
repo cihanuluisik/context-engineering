@@ -5,7 +5,7 @@
 - CrewAI
 - AutoGen
 
-![Agentic AI Frameworks](diagrams/agentic-ai/Agentic%20AI%20-%20Frameworks.png)
+![Agentic AI Frameworks](diagrams/agentic-ai/Frameworks.png)
 
 ## Agent Design
 - Planner, executor, critic roles
