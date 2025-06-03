@@ -45,3 +45,23 @@
 
 15. **Fast.ai - Practical Deep Learning for Coders**  
     https://course.fast.ai/ 
+
+
+
+# OpenAI just dropped the AI Academy. 
+
+11 courses are now available for FREE.
+
+- Introduction to Prompt Engineering
+- ChatGPT & Reasoning
+- Deep Research
+- OpenAI, LLMs & ChatGPT
+- ChatGPT Search
+- ChatGPT for Data Analysis
+- Advanced Prompt Engineering
+- Multimodality Explained
+- ChatGPT for Writing and Coding
+- ChatGPT Projects
+- Introduction to GPTs
+
+To access it: https://lnkd.in/efetdb3n
