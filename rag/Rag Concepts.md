@@ -25,17 +25,17 @@ The retriever component is crucial for finding relevant information:
 ### Reranking
 Reranking improves the quality of retrieved results by reordering them based on relevance scores.
 
-![RAG Reranking Process](diagrams/rag/Rag%20Re%20Ranking.png)
+![RAG Reranking Process](Rag%20Re%20Ranking.png)
 
 ### Hypothetical Document Embeddings (HYDE)
 HYDE is an innovative approach that generates hypothetical answers before retrieval to improve search accuracy.
 
-![RAG vs HYDE Comparison](diagrams/rag/Rag%20vs%20HyDE.png)
+![RAG vs HYDE Comparison](Rag%20vs%20HyDE.png)
 
 ### Agentic RAG
 Agentic RAG extends traditional RAG by incorporating autonomous decision-making capabilities:
 
-![RAG vs Agentic RAG](diagrams/rag/Rag%20vs%20agentic%20Rag.png)
+![RAG vs Agentic RAG](Rag%20vs%20agentic%20Rag.png)
 
 ### Multi-hop and Context-aware Retrieval
 - **Multi-hop Retrieval**: Chains multiple retrieval steps to gather information from different sources

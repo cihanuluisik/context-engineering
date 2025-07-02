@@ -33,4 +33,4 @@ That request can be routed through MCP to select from available web search tools
 
 If you want to understand this better with code, I have linked my article in the comments.
 
-![MCP vs Function Calling](diagrams/mcp/MCP%20vs%20Function%20calling.png) 
+![MCP vs Function Calling](MCP%20vs%20Function%20calling.png) 
