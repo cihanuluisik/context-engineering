@@ -1,4 +1,4 @@
-# GenAI and Context Engineering Learning Repository
+# GenAI and Context Engineering 
 
 A comprehensive collection of resources for learning Generative AI, AI Agents, and related technologies.
 
