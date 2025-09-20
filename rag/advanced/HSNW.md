@@ -1,7 +1,5 @@
 # Hierarchical Navigable Small World (HNSW)
 
-**Estimated Reading Time:** 30 minutes
-
 ## What is HNSW?
 
 Imagine you're trying to find a specific restaurant in a huge city. Instead of checking every single restaurant one by one, you use a smart navigation system such as Google Maps. You start with a zoomed-out view showing major highways, then gradually zoom in to see smaller streets, and finally arrive at your exact destination.

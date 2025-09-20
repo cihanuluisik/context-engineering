@@ -1,7 +1,5 @@
 # Cheat Sheet: Advanced Retrievers for RAG
 
-**Estimated Reading Time:** 15 minutes
-
 ## Core Retrieval Concepts
 
 ### What are Advanced Retrievers?
